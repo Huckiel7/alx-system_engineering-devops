@@ -1,1 +1,1 @@
-file descrip
+file descr
