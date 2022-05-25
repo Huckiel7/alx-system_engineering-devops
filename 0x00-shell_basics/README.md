@@ -1,1 +1,1 @@
-delete the directory..
+script..
