@@ -1,1 +1,1 @@
-file descrp
+task 13 we are symbols
