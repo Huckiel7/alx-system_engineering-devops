@@ -1,1 +1,1 @@
-script that creates a directory
+delete the file betty
