@@ -1,1 +1,1 @@
-my readme for the shell permission task
+cript that prints the effective username of the current user
