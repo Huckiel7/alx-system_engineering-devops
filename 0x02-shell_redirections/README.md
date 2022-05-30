@@ -1,1 +1,1 @@
-Write a shell script that creates a file
+7th task
