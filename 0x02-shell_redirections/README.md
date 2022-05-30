@@ -1,1 +1,1 @@
-7th task
+Display all lines of the file
