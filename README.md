@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-command_line_for_the_win
-=======
-Task 0. where am i ?
-# alx-higher_level_programming
-# alx-higher_level_programming
-# alx-higher_level_programming
->>>>>>> 68b71e3bf5a8ffeb2eb78909f836b85aac57d114
+0x00-shell_basics , 0x01-shell_permissions , 0x02-shell_redirections , 0x03-shell_variables_expansions , 0x04-loops_conditions_and_parsing , command_line_for_the_win in alx-system_engineering-devops
